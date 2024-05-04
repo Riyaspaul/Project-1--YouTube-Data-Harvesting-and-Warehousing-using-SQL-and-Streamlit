@@ -104,6 +104,9 @@ There are two files
 
 2. .py file has the program for input a new channel ID to get details for additional channels and store them in the mysql and display in Streamlit application.
 
+## Demo in LinkedIn
+https://www.linkedin.com/posts/riyasudeen-m-876b3a307_here-is-the-first-project-demo-video-in-python-activity-7192457905189634048-gXT1?utm_source=share&utm_medium=member_desktop
+
 
 
 
